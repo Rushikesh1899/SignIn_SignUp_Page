@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "type": "admin",
+      "username": "Ashutosh Katkar",
+      "password": "ashu@123",
+      "id": 1
+    },
+    {
+      "type": "user",
+      "username": "Rushikesh Gurav",
+      "password": "Rushi@1899",
+      "id": 2
+    },
+    {
+      "type": "user",
+      "username": "Prachi K",
+      "password": "Prachi123",
+      "id": 3
+    },
+    {
+      "type": "admin",
+      "username": "Admin@123",
+      "password": "admin123",
+      "id": 4
+    }
+  ]
+}
